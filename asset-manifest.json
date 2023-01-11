@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/jammi/static/css/main.36a438c9.css",
+    "main.css": "/jammi/static/css/main.6f8effe6.css",
     "main.js": "/jammi/static/js/main.9c53ce24.js",
     "index.html": "/jammi/index.html",
-    "main.36a438c9.css.map": "/jammi/static/css/main.36a438c9.css.map",
+    "main.6f8effe6.css.map": "/jammi/static/css/main.6f8effe6.css.map",
     "main.9c53ce24.js.map": "/jammi/static/js/main.9c53ce24.js.map"
   },
   "entrypoints": [
-    "static/css/main.36a438c9.css",
+    "static/css/main.6f8effe6.css",
     "static/js/main.9c53ce24.js"
   ]
 }
