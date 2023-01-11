@@ -1,0 +1,35 @@
+.gallery {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: center;
+    /* border: 1px solid red; */
+    width: 90em;
+    margin: 0 auto;
+    /* background-color: rgba(96, 97, 96, 0.082); */
+    /* padding-left: 5em;
+    padding-right: 5em; */
+    }
+
+.gallery img {
+    width: calc(33.333% - 1.5em);
+    margin-bottom: 1.5em;
+    margin-top: 1.5em;
+    /* margin-left: 3em; */
+    /* margin-right: 3em; */
+    /* background-color: rgb(96, 97, 96, 0.2); */
+    transition: .2s;
+    border-radius: .5em;
+}
+
+.gallery img:hover {
+    scale: 1.1;
+    transition: .5s;
+    background: grey;
+}
+
+/* { "src":"https://i.ibb.co/x1ktLPJ/IMG-1676.jpg", "alt":"IMG-1676", "kirjeldus": "Sokid"}, */
+
+/* { "src":"https://i.ibb.co/zRGqV5j/IMG-1623.jpg", "alt":"IMG-1623", "kirjeldus": "Sokid" } */
+/* { "src":"https://i.ibb.co/MSg84S5/IMG-1637.jpg", "alt":"IMG-1637", "kirjeldus": "Sokid" }, */
+/* { "src":"https://i.ibb.co/frMxg57/IMG-1659.jpg", "alt":"IMG-1659", "kirjeldus": "Sokid" }, */

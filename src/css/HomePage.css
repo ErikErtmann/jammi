@@ -1,0 +1,95 @@
+.UpperBox {
+    display: flex;
+    padding-bottom: 1em;
+    /* border-bottom: .05em solid rgb(96, 97, 96); */
+    /* border: 1.5px solid rgb(7, 233, 75); */
+}
+
+.LogoAndName{
+    width: 50%;
+    height: fit-content;
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+    flex-direction: row;
+    padding-top: 1vw;
+    padding-bottom: 1vw;
+    padding-left: 1.5vw;
+    padding-right: 1vw;
+    /* border: 1.5px solid rgb(233, 22, 7); */
+    
+}
+
+.logo {
+    /* max-height: 4.5em; */
+    max-height: 4.8em;
+}
+
+.name {
+    font-size: 3.8em;
+    font-family: Gill Sans,Gill Sans MT,Calibri,sans-serif; 
+    letter-spacing: 0.05vw;
+    color: rgb(96, 97, 96);
+    font-weight:lighter;
+}
+
+.SloganBox {
+    width: 50%;
+    display: flex;
+    align-items: center;
+    justify-content:flex-end;
+    /* border: 1.5px solid rgb(233, 22, 7); */
+}
+
+.Slogan {
+    font-size: 1.3em;
+    font-family: Gill Sans,Gill Sans MT,Calibri,sans-serif; 
+    letter-spacing: 0.05em;
+    color: rgb(96, 97, 96);
+}
+
+.SentenceBox{
+    height: 10vw;
+    text-align: left;
+    padding-bottom: 12em;
+    padding-top: 12em;
+    width: 72.0em;
+    /* border: 1.5px solid red; */
+    margin: 0 auto;
+}
+
+.SentenceFont{
+    font-size: 1.8em;
+    font-family: Gill Sans,Gill Sans MT,Calibri,sans-serif; 
+    letter-spacing: 0.165em;
+    color: rgb(96, 97, 96);
+    border-left: 4mm ridge rgba(247, 248, 248, 0.966);
+    border-left-style: groove;
+    
+}
+
+.MedBox {
+    /* display: flex; */
+    padding-top: 1.5em;
+    padding-bottom: 1.5em;
+    height: fit-content;
+    /* border: 1.5px solid rgb(25, 0, 255); */
+}
+
+.MedBoxCaption {
+    font-size: 2em;
+    font-family: Gill Sans,Gill Sans MT,Calibri,sans-serif; 
+    letter-spacing: 0.25em;
+    color: rgb(96, 97, 96);
+    /* padding-bottom: .5em; */
+    /* background-color: rgba(0, 169, 166, 0.144); */
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+    /* border: 1.5px solid rgb(25, 0, 255); */
+}
+
+.Products {
+    display: flex;
+    flex-direction: column;
+}
