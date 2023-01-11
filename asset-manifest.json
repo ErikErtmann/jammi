@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/jammi/static/css/main.a2758d56.css",
+    "main.js": "/jammi/static/js/main.9c53ce24.js",
+    "index.html": "/jammi/index.html",
+    "main.a2758d56.css.map": "/jammi/static/css/main.a2758d56.css.map",
+    "main.9c53ce24.js.map": "/jammi/static/js/main.9c53ce24.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a2758d56.css",
+    "static/js/main.9c53ce24.js"
+  ]
+}
